@@ -1,4 +1,4 @@
-## 🚀 Desenvolvedora Full Stack com experiência em desenvolvimento web, liderança de equipe e docência, buscando um desafio empolgante que aproveite minha paixão pela tecnologia e minha capacidade de comunicação.
+## 🚀 Desenvolvedora Full Stack com experiência em desenvolvimento web, liderança de equipe e docência.
 
 
 <div align="center">
