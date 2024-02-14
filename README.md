@@ -1,4 +1,4 @@
-## Olá, me chamo Helen e sou desenvolvedora full stack
+## 🚀 Desenvolvedora Full Stack com experiência em desenvolvimento web, liderança de equipe e docência, buscando um desafio empolgante que aproveite minha paixão pela tecnologia e minha capacidade de comunicação.
 
 
 <div align="center">
@@ -19,6 +19,8 @@
   <img align="center" alt="Helen-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img align="center" alt="Helen-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Helen-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img  align="center" alt="Helen-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+          
           
                        
   
