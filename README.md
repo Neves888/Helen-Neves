@@ -1,12 +1,9 @@
 ## 🚀 Desenvolvedora Full Stack com experiência em desenvolvimento web, liderança de equipe e docência, e apaixonada por ciência e tecnologia 👩🏾‍🔬 🤖
 
-
-<div align="center">
-  <a href="https://github.com/Neves888">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neves888&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neves888&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+<p float="left" >
+  
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Helen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Helen-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,12 +16,20 @@
   <img align="center" alt="Helen-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img align="center" alt="Helen-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Helen-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img  align="center" alt="Helen-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-          
-          
-                       
-  
+  <img  align="center" alt="Helen-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />      
 </div>
+<br><br>
+
+<a href="https://github.com/Neves888">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/?username=Neves888&show_icons=true&theme=radical" height="200"/>
+  
+</a>
+
+<a href="https://github.com/Neves888">
+  <img align="center" src="https://letstrys-bloedboemmel.vercel.app/api/top-langs/?username=Neves888&theme=radical"  height="200"/>
+</a>
+
+
   
   ##
  
