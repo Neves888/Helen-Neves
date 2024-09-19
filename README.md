@@ -1,4 +1,4 @@
-## 🚀 Desenvolvedora Full Stack apaixonada por ciência e tecnologia 👩🏾‍🔬 🤖
+## 🚀 Desenvolvedora Full Stack
 
 <table style="border: 3px solid #ddd; width: 100%; border-collapse: collapse;">
   <tr>
